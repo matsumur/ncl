@@ -1,11 +1,12 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+## Header 2 ##
+2015年10月1日から2016年3月31日までの半年間、イギリスのNewcastle Universityで在外研究を行いました。このBlogは在外研究にあたっての準備からイギリスの滞在中の様々なできごとを記録したものです。
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
 
+## Header 2 ##
 You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
