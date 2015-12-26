@@ -8,3 +8,11 @@ url: "https://matsumur.github.io/ncl/" # the base hostname & protocol for your s
 
 # Build settings
 markdown: kramdown
+
+gems:
+- jekyll-mentions
+- jemoji
+- jekyll-redirect-from
+- jekyll-sitemap
+
+- jekyll-feed
