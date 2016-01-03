@@ -2,7 +2,7 @@
 title: Open Lab, Newcastle Universityでの在外研究
 email: matsumur@acm.org
 description: > # this means to ignore newlines until "baseurl:"
-  2015年10月1日から2016年3月31日までの半年間、イギリスのNewcastle Universityで在外研究を行いました。このBlogは在外研究にあたっての準備からイギリスの滞在中の様々なできごとを記録したものです。
+  在外研究の記録と記憶
 baseurl: "/ncl" # the subpath of your site, e.g. /blog/
 url: "https://matsumur.github.io/ncl/" # the base hostname & protocol for your site
 
