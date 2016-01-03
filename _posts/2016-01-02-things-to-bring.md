@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "{持ってきて・買って}良かったもの"
+description: "私がNewcastleに持ってきてよかった、あるいは買ってよかったと思うものについて…"
 date:   2016-01-02 00:00:00
 categories:
 - newcastle

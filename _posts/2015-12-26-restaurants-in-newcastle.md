@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Newcastleのレストラン"
+description: "私がNewcastleに滞在したときにいくつか行ったレストランを紹介したいと思います…"
 date:   2015-12-26 00:00:00
 categories:
 - newcastle

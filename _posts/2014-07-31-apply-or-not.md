@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "1年目での学外研究への応募"
+description: "立命館大学には学外研究制度があり、テニュアをもった専任教員であれば…"
 date:   2014-7-31 00:00:00
 categories:
 - preparation

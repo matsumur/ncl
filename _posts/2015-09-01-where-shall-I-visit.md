@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "研究機関をえらぶ"
+description: "在外研究を行う研究機関をえらぶのはそれなりに難しいものです。私の場合は…"
 date:   2015-09-01 00:00:00
 categories:
 - living
