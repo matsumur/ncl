@@ -6,6 +6,15 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/ncl" # the subpath of your site, e.g. /blog/
 url: "https://matsumur.github.io/ncl/" # the base hostname & protocol for your site
 
+
+owner:
+  name:           Kohei Matsumura
+  avatar:         na.jpg
+  email:          matsumur@acm.org
+  description:    An assistant proffessor at Ritsumeikan University, Japan.
+  twitter:        matsumur
+  facebook:       matsumur
+
 # Build settings
 markdown: kramdown
 
