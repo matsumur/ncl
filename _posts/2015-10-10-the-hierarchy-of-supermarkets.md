@@ -10,16 +10,16 @@ categories:
 
 イギリスにはいくつかのスーパーマーケットのチェーンがあります。そしてそれぞれには客層があります。すなわち、端的に言えば社会階層に応じて行くスーパーマーケットが分かれます。あ、あの人はWaitroseの袋をもっている… だからそれなりの人なんだろうな… という具合です。日本でも、デパートで買い物する人はお金持ちのイメージがありますよね。似たようなものです。以下では、Newcastleにあるイギリスの代表的なスーパーマーケットを*階層順*で紹介します。
 
-1.  [クラスA](#section-1)
+1.  [クラスA](#a)
 	- [Waitrose](#waitrose)
 	- [Marks & Spencer](#marks-&-spencer)
-2.  [クラスB](#section-2)
+2.  [クラスB](#b)
 	- [Sainsburys](#sainsburys)
 	- [Tesco](#tesco)
-3.  [クラスC](#section-3)
+3.  [クラスC](#c)
 	- [Morrisons](#morrisons)
 	- [ASDA](#asda)
-3.  [クラスD](#section-4)
+3.  [クラスD](#d)
 	- [Iceland](#iceland)
 	- [Aldi](#aldi)
 
