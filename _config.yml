@@ -12,6 +12,8 @@ owner:
   avatar:         na.jpg
   email:          matsumur@acm.org
   description:    An assistant proffessor at Ritsumeikan University, Japan.
+  twitter:        matsumur
+  facebook:       matsumur
 
 # Build settings
 markdown: kramdown
