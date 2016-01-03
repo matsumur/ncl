@@ -8,11 +8,11 @@ categories:
 ---
 在外研究を行う研究機関をえらぶのは、それなりに難しいものです。難しい理由は人それぞれですが、例えば、「海外に知り合いがいない」だとか、「行きたいところが企業なので、受け入れが難しい」、あるいは、「選択肢が多すぎる」などがあるでしょう。私にとっての選択肢は応募時点でいくつかありました。そしてそのうちのいくつかは相手の都合で選択肢から消えました。
 
-1.  [Open Lab, Newcastle University, UK](#section-13)
+1.  [Open Lab, Newcastle University, UK](#open-lab)
 2.  [Media Lab, MIT, US](#media-lab)
-3.  [Microsoft Research](#section-5)
-4.  [Google, US](#section-5)
-5.  [British Columbia University, Canada](#section-5)
+3.  [Microsoft Research](#microsoft-research)
+4.  [Google, US](#google)
+5.  [British Columbia University, Canada](#british-columbia-university)
 
 ### Open Lab
 [Newcastle University](http://www.ncl.ac.uk)の[Open Lab](https://openlab.ncl.ac.uk/)は私が最終的に滞在を決めた研究機関です。[Patrick Olivier](https://openlab.ncl.ac.uk/people/nplo/)が全体を取りまとめています。以前はCulture Labというラボだったのですが、さらに独立をしてOpen Labになったようです。Culture Labも同様ですが、大学からは一つの独立研究機関として存在しているようで、ラボが一つの研究棟を持っています。総勢120人を超える大所帯で、7人のFacultyを中心としたスタッフがこれを率いています。
