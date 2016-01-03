@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "研究機関をえらぶ"
-date:   2016-01-02 00:00:00
+date:   2015-09-01 00:00:00
 categories:
 - living
 - research
