@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   在外研究の記録と記憶
 baseurl: "/ncl" # the subpath of your site, e.g. /blog/
 url: "https://matsumur.github.io/ncl" # the base hostname & protocol for your site
-logo: "na.jpg"
+logo: "openlab.jpg"
 
 
 owner:
