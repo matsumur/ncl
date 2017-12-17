@@ -10,6 +10,8 @@ categories:
 
 [@keihigu](https://twitter.com/keihigu)さんが[研究留学に関するAdvent Calendar](https://adventar.org/calendars/2562)をやるというのでオッサンの私も1つ書いてみようかなと思いたちまして、参加することになりました。take-home messageとしては**とにかく自分から動く**です。海外に｛行く・行くつもりがある｝積極的な皆さんにとっては「そんなの当然でしょ」と思われるかもしれませんが、これを持たないと、ただ漫然と時間が過ぎていくことになると思います。
 
+![ニューカッスル](https://matsumur.github.io/ncl/images/ncl.jpg){:height="500px" width="375px"}
+
 私は誰かといいますと、立命館大学の情報理工学部で働いています。[松村耕平](http://research-db.ritsumei.ac.jp/Profiles/112/0011175/profile.html)です。このポストはイングランドの北のほう（すなわちもう少しでスコットランド）にある都市ニューカッスル（Newcastle）にサバティカルで滞在したときの記録です。まずは定型文から埋めたあと、他の方の例にならって私なりのまとめをしたいと思います。
 
 ### 定型文
@@ -67,6 +69,9 @@ Newcastle UniversityのOpen LabはHCIやUbiquitous Computingに関する研究�
 
 ![タイマー](https://matsumur.github.io/ncl/images/timer1.jpg){:height="422px" width="350px"}
 
-この時計はおよそ機能していましたが、ラボのメンバーはこのタイマーの入力を簡単にするとともに、TwitterやSlackでコーヒーが入ったことを通知できるプロトタイプに改善しました。最初のプロトタイプから1週間後のことです。
+この時計はおよそ機能していましたが、ラボのメンバーはこのタイマーの入力を簡単にするとともに、TwitterやSlackでコーヒーが入ったことを通知できるプロトタイプに改善しました。最初のプロトタイプから1週間後のことです。こんな感じのデザインサイクルが日常的に行われていました。
 
 ![タイマー2](https://matsumur.github.io/ncl/images/timer2.jpg){:height="500px" width="350px"}
+
+### 
+ラボの雰囲気はすごくフラットです。教授（Professor）も准教授（Reader）も学生や他の研究員と同じ部屋に同じだけのスペースで座っています。
