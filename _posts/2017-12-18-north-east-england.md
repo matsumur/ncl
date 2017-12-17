@@ -32,7 +32,7 @@ Newcastle UniversityのOpen LabはHCIやUbiquitous Computingに関する研究�
 [CHI2015 Institutions](http://www.kashyaptodi.com/chi2015/institutions)
 <div style="text-align: center;">
 | Institution| City| Num of Publication  |
-| ------------- |:-------------:| -----:|
+| ------------- | ------------- | -----:|
 | Carnegie Mellon University | Pittsburgh | 38 |
 | University of Washington | Seattle | 29 |
 | Microsoft Research | Redmond | 17 |
@@ -44,7 +44,7 @@ Newcastle UniversityのOpen LabはHCIやUbiquitous Computingに関する研究�
 
 <div style="text-align: center;">
 | Institution| City| Num of Publication  |
-| ------------- |:-------------:| -----:|
+| ------------- | ------------- | -----:|
 | University of Washington | Seattle | 39 |
 | Carnegie Mellon University | Pittsburgh | 35 |
 | Microsoft Research | Redmond | 27 |
@@ -56,7 +56,7 @@ Newcastle UniversityのOpen LabはHCIやUbiquitous Computingに関する研究�
 
 <div style="text-align: center;">
 | Institution| City| Num of Publication  |
-| ------------- |:-------------:| -----:|
+| ------------- | ------------- | -----:|
 | University of Washington | Seattle | 44 |
 | Carnegie Mellon University | Pittsburgh | 34 |
 | Microsoft Research | Redmond | 27 |
