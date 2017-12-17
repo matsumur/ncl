@@ -97,4 +97,4 @@ Open Labでは学生にはメンターがいますが、各々が個人的に研
 日本で国際会議があるとき、訪ねてくれる研究者も増えました。最近では[TEI](http://www.tei-conf.org)のときに訪ねてくれました。これからも日本では[IUI](http://iui.acm.org/)や[ISS](https://iss.acm.org)などの会議があるので、また彼らと会うのが楽しみです。
 
 ### おわりに
-とりとめがない文章になってしまいましたが、イギリスの北のほうで在外研究をした際に「自分から動く」ということをやってみた経験を紹介しました。なんらかの参考になれば幸いです。
+とりとめがない文章になってしまいましたが、イギリスの北のほうで在外研究をした際に「自分から動く」ということをやってみた経験を紹介しました。なんらかの参考になれば幸いです。また、[Open Lab (Newcastle University)](https://openlab.ncl.ac.uk)や[NORTHLab (Northumbria University)](http://northlab.uk)、[UCLIC (University College London)](https://uclic.ucl.ac.uk)への訪問や在外研究に興味がある方は私に連絡いただければ、中の人を紹介することくらいはできますのでお気軽に連絡ください。
