@@ -19,7 +19,11 @@ categories:
 [Open Lab](https://openlab.ncl.ac.uk), [Newcastle University](http://www.ncl.ac.uk), [Newcastle upon Tyne](https://en.wikipedia.org/wiki/Newcastle_upon_Tyne), [UK](https://en.wikipedia.org/wiki/United_Kingdom)
 
 #### 何をやったか
+現地の研究者と共同研究
 
+この成果については<https://doi.org/10.1145/3161176>を参照ください。
 
 #### どうやって行ったか (どのようなプログラムで行ったのかなど)
+立命館大学助教学外研究制度
 
+この経緯については[こちらのポスト](https://matsumur.github.io/ncl/preparation/japan/2014/07/31/apply-or-not.html)を参照ください。
