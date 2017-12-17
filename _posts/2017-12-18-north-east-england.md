@@ -27,10 +27,10 @@ categories:
 立命館大学助教学外研究制度。この経緯については[こちらのポスト](https://matsumur.github.io/ncl/preparation/japan/2014/07/31/apply-or-not.html)を参照ください。
 
 ### Newcastle UniversityのOpen Labとはどんなところか
-Newcastle UniversityのOpen LabはHCIやUbiquitous Computingに関する研究を中心にした研究者の集まる研究所です。以前はCulture Labと呼ばれていたこともあります。大学からは一つの独立研究機関として存在しているようで、ラボが一つの研究棟を持っています。私が滞在したころは総勢120人を超える大所帯で、[Patrick Olivier](https://openlab.ncl.ac.uk/people/nplo), [Pater Wright](https://openlab.ncl.ac.uk/people/npcw1/)を中心に、7人のFacultyがこれを率いていました。ここでは、コンピュータ科学はもちろんのこと、数学、心理学、社会科学、哲学などの研究者がそれぞれに補い合ってプロジェクトを進めています。HCIに関する研究機関ではイギリスにおいてはUniversity College Londonの[UCLIC (UCL Interaction Centre)](https://uclic.ucl.ac.uk)と並んで世界でも有数のラボと言えます。 世界最大の国際会議であるCHIの採録数は
+Newcastle UniversityのOpen LabはHCIやUbiquitous Computingに関する研究を中心にした研究者の集まる研究所です。以前はCulture Labと呼ばれていたこともあります。大学からは一つの独立研究機関として存在しているようで、ラボが一つの研究棟を持っています。私が滞在したころは総勢120人を超える大所帯で、[Patrick Olivier](https://openlab.ncl.ac.uk/people/nplo), [Pater Wright](https://openlab.ncl.ac.uk/people/npcw1/)を中心に、7人のFacultyがこれを率いていました。ここでは、コンピュータ科学はもちろんのこと、数学、心理学、社会科学、哲学などの研究者がそれぞれに補い合ってプロジェクトを進めています。HCIに関する研究機関ではイギリスにおいてはUniversity College Londonの[UCLIC (UCL Interaction Centre)](https://uclic.ucl.ac.uk)と並んで世界でも有数のラボと言えます。 世界最大の国際会議であるCHIの採録数ではおよそトップ5に入っています。
 
-CHI2015
-
+[CHI2015 Institutions](http://www.kashyaptodi.com/chi2015/institutions)
+<div style="text-align: center;">
 | Institution| City| Num of Publication  |
 | ------------- |:-------------:| -----:|
 | Carnegie Mellon University | Pittsburgh | 38 |
@@ -38,9 +38,11 @@ CHI2015
 | Microsoft Research | Redmond | 17 |
 | University College London | London | 17 |
 | **Newcastle University** | Newcastle upon Tyne	| 15 |
+</div>
 
-CHI2016
+[CHI2016 Institutions](http://www.kashyaptodi.com/chi2016/institutions)
 
+<div style="text-align: center;">
 | Institution| City| Num of Publication  |
 | ------------- |:-------------:| -----:|
 | University of Washington | Seattle | 39 |
@@ -48,9 +50,11 @@ CHI2016
 | Microsoft Research | Redmond | 27 |
 | **Newcastle University** | Newcastle upon Tyne	| 19 |
 | University of Michigan | Ann Arbor | 17 |
+</div>
 
-CHI2017
+[CHI2017 Institutions](http://www.kashyaptodi.com/chi2017/institutions)
 
+<div style="text-align: center;">
 | Institution| City| Num of Publication  |
 | ------------- |:-------------:| -----:|
 | University of Washington | Seattle | 44 |
@@ -58,4 +62,5 @@ CHI2017
 | Microsoft Research | Redmond | 27 |
 | **Newcastle University** | Newcastle upon Tyne	 | 27 |
 | Northumbria University | Newcastle upon Tyne | 24 |
+</div>
 
